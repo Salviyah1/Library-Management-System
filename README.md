@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System
 
 A console-based Library Management System developed using Core Java and Object-Oriented Programming concepts.
@@ -48,3 +49,6 @@ This version stores information in memory using ArrayList. Data added during exe
 - Develop REST APIs using Spring Boot.
 - Add automated unit tests.
 - Implement user authentication and authorization.
+=======
+# Library-Management-System
+>>>>>>> 4d975048c8464c3dcea2046db83139d161da201d
